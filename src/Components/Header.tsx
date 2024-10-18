@@ -1,6 +1,6 @@
 import "./Header.css"; 
 import { useState } from "react";
-import logo from "../Assets/logo.png";
+import logo from "../../public/logo.png";
 import { FaBars, FaTimes } from "react-icons/fa"; // Hamburger and close icons from react-icons
 
 const Header = () => {

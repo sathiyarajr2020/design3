@@ -4,11 +4,11 @@ import 'slick-carousel/slick/slick-theme.css';
 import './BannerSlider.css';
 
 // Import your images
-import image1 from '../Assets/banner1.png';
-import image2 from '../Assets/banner2.png';
-import image3 from '../Assets/banner3.png';
-import image4 from '../Assets/banner4.png';
-import image5 from '../Assets/banner5.png';
+import image1 from '../../public/banner1.png';
+import image2 from '../../public/banner2.png';
+import image3 from '../../public/banner3.png';
+import image4 from '../../public/banner4.png';
+import image5 from '../../public/banner5.png';
 
 const BannerSlider = () => {
     const settings = {

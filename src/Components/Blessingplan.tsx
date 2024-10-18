@@ -1,9 +1,9 @@
 import { useState } from "react";
-import youngPartnerImage from "../Assets/yp.jpg";
-import familyBlessingImage from "../Assets/fbp.jpg";
-import businessBlessingImage from "../Assets/bbp.jpg";
-import demo1 from "../Assets/jbp.jpg";
-import demo2 from "../Assets/tvc.jpg";
+import youngPartnerImage from "../../public/yp.jpg";
+import familyBlessingImage from "../../public/fbp.jpg";
+import businessBlessingImage from "../../public/bbp.jpg";
+import demo1 from "../../public/jbp.jpg";
+import demo2 from "../../public/tvc.jpg";
 import "./Blessingplan.css";
 
 // Define the structure of the feature item

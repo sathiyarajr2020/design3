@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import demo2 from "../Assets/tvc.jpg";
+import demo2 from "../../public/tvc.jpg";
 import './Testimonies.css';
 
 interface Testimonial {

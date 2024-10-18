@@ -1,5 +1,5 @@
 import './VideoBackgroundSection.css'; // Import CSS file
-import bgVideo from '../Assets/jc.mp4'; // Import video file
+import bgVideo from '../../public/jc.mp4'; // Import video file
 
 const VideoBackgroundSection = () => {
   return (

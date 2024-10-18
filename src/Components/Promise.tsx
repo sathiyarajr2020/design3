@@ -1,7 +1,7 @@
 import React from 'react';
 import './Promise.css';
-import PromiseImage1 from '../assets/promise1.png';
-import PromiseImage2 from '../assets/promise2.png';
+import PromiseImage1 from '../../public/promise1.png';
+import PromiseImage2 from '../../public/promise2.png';
 
 const Promises: React.FC = () => {
   return (
